@@ -481,23 +481,24 @@ body{
 .project .right{
 	width:25%;
 	padding:15px;
+	padding-top:0;
 }
 
 .project .right h2{
 	font-family: 'Gabriela', serif;
 	color:#4c7515;
-	font-size:36px;
-	line-height:40px;
-	margin-bottom:25px;
+	font-size: 25px;
+    line-height: 28px;
+    margin-bottom: 8px;
 }
 
 .project .right h3{
 	font-family: 'Gabriela', serif;
 	color:#000;
-	font-size:26px;
-	line-height:30px;
-	margin-bottom:15px;
-	font-style:italic;
+	font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 15px;
+	
 }
 
 .project .right span{
